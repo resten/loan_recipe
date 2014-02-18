@@ -1,4 +1,4 @@
-package com.recipe.loan_recipe;
+package com.yapp.loan_recipe;
 
 import android.os.Bundle;
 import android.app.Activity;
